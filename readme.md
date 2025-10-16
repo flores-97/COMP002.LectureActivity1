@@ -1,2 +1,2 @@
 Author: Victor Flores
-Purpose: First week of COMP-002-L01 assignment 1. 
+Purpose: My first JS Project.
