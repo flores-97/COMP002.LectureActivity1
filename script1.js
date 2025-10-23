@@ -1,8 +1,8 @@
-console.log(8 * null);
-console.log("5" - 1);
-console.log("5" + 1);
-console.log("five"*2);
-console.log(false == 0);
-console.log(5>2 && 6>3);
-console.log(false == false ? "equal" : "not equal");
-console.log(true || false);
+console.log(8 * null); //null
+console.log("5" - 1); //4
+console.log("5" + 1); //51
+console.log("five"*2);  //NaN
+console.log(false == 0); //true
+console.log(5>2 && 6>3); //true
+console.log(false == false ? "equal" : "not equal"); //equal
+console.log(true || false); //true
